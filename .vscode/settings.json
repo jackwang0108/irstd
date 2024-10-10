@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "convs",
+        "decos",
+        "einops",
+        "fmeasure",
+        "IRSTD",
+        "lamd",
+        "linewidth",
+        "llayers",
+        "Lowrank",
+        "miou",
+        "mlayers",
+        "MSISTD",
+        "mynet",
+        "nclass",
+        "NUDT",
+        "pbar",
+        "prec",
+        "RPCA",
+        "rpcanet",
+        "Sirst",
+        "sirstaug",
+        "softiou",
+        "Softplus",
+        "TPFNFP",
+        "znet"
+    ]
+}
